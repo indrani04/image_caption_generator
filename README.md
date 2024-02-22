@@ -17,9 +17,9 @@ The model is trained using a custom data generator to handle a large dataset eff
 The trained model is evaluated by generating captions for a sample of images from the test set. The predicted captions are compared against the ground truth captions to assess the model's performance qualitatively.
 
 # Dependencies
-TensorFlow 2.x
-Keras
-tqdm
-Matplotlib
-Seaborn
-pandas
+- TensorFlow 2.x
+- Keras
+- tqdm
+- Matplotlib
+- Seaborn
+- pandas
